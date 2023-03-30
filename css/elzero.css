@@ -968,8 +968,6 @@ a {
   flex: 1;
 }
 
-.our-skills .skill {}
-
 .our-skills .skill h3 {
   display: flex;
   justify-content: space-between;
